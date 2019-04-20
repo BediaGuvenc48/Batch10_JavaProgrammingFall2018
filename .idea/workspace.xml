@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="136ef3af-99a1-4c13-bf14-1b9a3595387a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day10_conditionals4/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_conditions/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_classObject_Strings/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_stringmanipulation/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_StringManipulation/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15_StringManipulation1/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day16_ReviewSession1/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day17_ReviewSession/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day18_loops1/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day19_Loop2/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20_loops03_forloop/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day24_LoopsAndArrays/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_Method01/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_Method02/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_MethodWithReturn03/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4_operator/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_Operators/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_operators_boolean/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_conditionals/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_conditionals2/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Autdi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Autdi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buggy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Buggy2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/CarRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingBat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/CodingBat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecendingOrderLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/DecendingOrderLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DuplicatedElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/DuplicatedElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/ExceptionPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExtractNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/ExtractNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonochi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Fibonochi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinraParactice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/FinraParactice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinraPrep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/FinraPrep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/InterviewQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Kamal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListDoubleValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/ListDoubleValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Love.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Love.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/MaxEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/MyPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyTestPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/MyTestPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/NumsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReversString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/ReversString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/ReverseInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Sina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/TEst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Unique1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Unique1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UniqueInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/UniqueInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WordCountMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/WordCountMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zambie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Zambie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zambie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Zambie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day20_loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/day20_loops.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day16_ReviewSession1/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1920">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day17_ReviewSession/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day18_loops1/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2495">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day19_Loop2/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day20_loops03_forloop/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day24_LoopsAndArrays/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day30_Method01/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="198" column="16" lean-forward="true" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day31_Method02/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1380">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day34_MethodWithReturn03/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="933">
+              <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day36_overloading_arrayList/Notes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1677">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/day4_operator/Notes.java" />
+        <option value="$PROJECT_DIR$/src/day5_Operators/Notes.java" />
+        <option value="$PROJECT_DIR$/src/day6_operators_boolean/Note.java" />
+        <option value="$PROJECT_DIR$/src/day7_conditionals/Note.java" />
+        <option value="$PROJECT_DIR$/src/day8_conditionals2/Note.java" />
+        <option value="$PROJECT_DIR$/src/day10_conditionals4/Note.java" />
+        <option value="$PROJECT_DIR$/src/day11_conditions/Note.java" />
+        <option value="$PROJECT_DIR$/src/day12_classObject_Strings/Note.java" />
+        <option value="$PROJECT_DIR$/src/day13_stringmanipulation/Note.java" />
+        <option value="$PROJECT_DIR$/src/day14_StringManipulation/Note.java" />
+        <option value="$PROJECT_DIR$/src/day16_ReviewSession1/Note.java" />
+        <option value="$PROJECT_DIR$/src/day17_ReviewSession/Note.java" />
+        <option value="$PROJECT_DIR$/src/day18_loops1/Note.java" />
+        <option value="$PROJECT_DIR$/src/day19_Loop2/Note.java" />
+        <option value="$PROJECT_DIR$/src/day20_loops03_forloop/Note.java" />
+        <option value="$PROJECT_DIR$/src/day24_LoopsAndArrays/Note.java" />
+        <option value="$PROJECT_DIR$/src/day30_Method01/Note.java" />
+        <option value="$PROJECT_DIR$/src/day31_Method02/Note.java" />
+        <option value="$PROJECT_DIR$/src/day34_MethodWithReturn03/Note.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-309" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaProjectProgrammingFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Batch10_JavaProgrammingFall2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProjectProgrammingFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Batch10_JavaProgrammingFall2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaProjectProgrammingFall2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Batch10_JavaProgrammingFall2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day36_overloading_arrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555781000695" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Practice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="136ef3af-99a1-4c13-bf14-1b9a3595387a" name="Default Changelist" comment="" />
+      <created>1555778704405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555778704405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-309" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20340788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" weight="0.32960597" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Casting/Casting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OCA_Instructor_Akbar/Notes_OCA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day7_conditionals/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day6_operators_boolean/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="9" selection-start-line="156" selection-start-column="9" selection-end-line="156" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day5_Operators/Notes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day4_operator/Notes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6690">
+          <caret line="446" selection-start-line="446" selection-end-line="446" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day8_conditionals2/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day10_conditionals4/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day11_conditions/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day12_classObject_Strings/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3690">
+          <caret line="246" selection-start-line="246" selection-end-line="246" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day13_stringmanipulation/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3255">
+          <caret line="217" column="36" selection-start-line="217" selection-start-column="36" selection-end-line="217" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day14_StringManipulation/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day15_StringManipulation1/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day16_ReviewSession1/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day17_ReviewSession/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day18_loops1/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2495">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day19_Loop2/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day20_loops03_forloop/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day24_LoopsAndArrays/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day30_Method01/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="198" column="16" lean-forward="true" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day31_Method02/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day34_MethodWithReturn03/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="211" lean-forward="true" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day36_overloading_arrayList/Notes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1677">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
